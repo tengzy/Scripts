@@ -1,4 +1,4 @@
 Scripts
 =======
 
-Useful scripts on Mac
+1. Mac shell script for SSH access.
